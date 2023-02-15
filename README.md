@@ -1,6 +1,6 @@
 # autom8
 
-This project is work-in-progress, and as a result the functionality presented below is not guaranteed to work flawlessly. `autm8` currently implements the following commands:
+This project is work-in-progress, and as a result the functionality presented below is not guaranteed to work flawlessly. `autom8` currently implements the following commands:
 
 - `nmap` -> Parse Nmap output with `nmaptocsv` and group the results into CSV.
 
